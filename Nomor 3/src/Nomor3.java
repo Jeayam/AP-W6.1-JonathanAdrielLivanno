@@ -21,7 +21,6 @@ public class Nomor3 {
        Employee e = new Programmer();
 
        e.work();
-
        e.attendMeeting();
 
    }
